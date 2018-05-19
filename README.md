@@ -1,14 +1,31 @@
-# _Linguistic Datasets Portuguese_: Conjuntos de dados linguísticos da língua portuguesa (pt-AO, pt-BR pt-MZ e pt_PT)
-**[trabalho-em-progresso] Lista de conjuntos de dados linguísticos da língua
-portuguesa e parte de seus dialetos com licença de uso flexíveis.**
+# _Linguistic Datasets for Portuguese_: conjuntos de dados linguísticos para língua portuguesa (pt-AO, pt-BR pt-MZ e pt_PT)
+**[trabalho-em-progresso] Lista de conjuntos de dados linguísticos para língua
+portuguesa com licença flexíveis: banco de dados, lista de palavras, sinônimos,
+antônimos, dicionário temático, tesauro, _linked data_, semântica, ontologia e
+representação de conhecimento.**
 
-Veja também [termos chave para inspirar pesquisas relacionadas](palavras-chave.md)
+<blockquote><em lang="en">
+(English description) [work-in-progress] List of linguistic datasets for Portuguese
+language with flexible licenses: database, wordlist, synonyms, antonyms,
+thematic dictionaries, thesaurus, linked data, semantic, ontology and
+knowledge representation.
+</em></blockquote>
+
+Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md)
 e [ferramentas](ferramentas.md).
 
 ## Datasets
-> Aviso: tanto as prorprias recomendações de conjunto de dados como a forma em
+> Aviso: tanto as próprias recomendações de conjunto de dados como a forma em
 que são apresentados deve sofrer alterações significativas até que esse aviso
 seja removido.
+
+<!--
+
+| Conjunto de dados | Licença | Etiquetas | Descrição |
+| --- | --- | --- | --- |
+| [openWordnet-PT](https://github.com/own-pt/openWordnet-PT) | | | OpenWordnet-PT: an open Brazilian Wordnet |
+
+-->
 
 - [openWordnet-PT](https://github.com/own-pt/openWordnet-PT)
 - https://github.com/fititnt/br.ispell
