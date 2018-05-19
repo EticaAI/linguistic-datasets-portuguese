@@ -11,3 +11,5 @@ seja removido.
 - https://github.com/fititnt/br.ispell
 - https://github.com/languagetool-org/languagetool/tree/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt
 - https://github.com/fititnt/VERO-pt-BR_verificador-ortografico-portugues-brasileiro
+
+## Motivação
