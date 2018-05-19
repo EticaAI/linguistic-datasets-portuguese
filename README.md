@@ -3,6 +3,9 @@
 trabalhar com a linguagem natural português sem necessidade de acessar
 servidores remotos.
 
+Veja também [termos chave para inspirar pesquisas relacionadas](palavras-chave.md)
+e [ferramentas](ferramentas.md).
+
 ## Datasets
 > Aviso: tanto as prorprias recomendações de conjunto de dados como a forma em
 que são apresentados deve sofrer alterações significativas até que esse aviso
