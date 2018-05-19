@@ -16,3 +16,11 @@ seja removido.
 - https://github.com/fititnt/VERO-pt-BR_verificador-ortografico-portugues-brasileiro
 
 ## Motivação
+_TODO: adicionar motivação (fititnt, 2018-05-19 17:25 BRT)_
+
+## Licença
+[![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
+
+Na medida do possível sob a lei, [Emerson Rocha](https://github.com/fititnt)
+renunciou todos os direitos autorais e direitos conexos ou vizinhos a este
+trabalho para o [domínio público](UNLICENSE).
