@@ -158,3 +158,10 @@ translation process_
 - [interactive-machine-translation](https://github.com/topics/interactive-machine-translation)
 - [machine-aided-human-translation](https://github.com/topics/machine-aided-human-translation)
 - [maht](https://github.com/topics/maht)
+
+### _Weasel Word_
+_[Weasel word](https://pt.wikipedia.org/wiki/Weasel_word) ("palavra-doninha"
+em inglês) é um termo de gíria inglesa que pode traduzir-se como palavras
+"evasivas" ou "vazias"._
+
+- [weasel-word](https://github.com/topics/weasel-word)

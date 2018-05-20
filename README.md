@@ -29,6 +29,14 @@ e [ferramentas](ferramentas.md).
 | [DicSin pt-BR](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) | 2010-05-28 | GPLv2? | dicionario, sinonimo, antonimo, pt-BR | DicSin: Dicionário de sinônimos e antônimos no idioma português brasileiro |
 | [br.ispell](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro) | 2003-03-25 | GPLv2 | dicionario, verificacao-ortografica, ispell, aspell, myspell, pt-BR | Espelho não-oficial dos dados de [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/) |
 
+## Lista de desejos
+
+| Etiquetas | Inspirações | Descrição |
+| --- | --- | --- |
+| afinn-111, analise-de-sentimento | [AFINN-111, EN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010) | Uma lista de palavras etiquetada com uma valência positiva ou negativa adaptada a um ou mais dialetos da língua portuguesa, que use como inspiração (não necessariamente uma tradução) do artigo [A new ANEW: Evaluation of a word list for sentiment analysis in microblogs](https://arxiv.org/abs/1103.2903) |
+| analise-de-sentimento, sarcasmo | [MIT, emojis, bullying](https://www.digitaltrends.com/cool-tech/emojis-mit-algorithm-bullying/) | Considerar a possibilidade de estimular análise de sentimento (ou padrões para identificar sarcasmo) considerando emojis e outros estilos de escrita muito específicos. Potencialmente útil em pesquisas futuras para reduzir falsos positivos de linguagem ofensiva ou discurso de ódio. Um projeto internacional é [deepmoji.mit.edu](https://deepmoji.mit.edu/) / [GitHub do DeepMoji](https://github.com/bfelbo/DeepMoji) |
+| weasel-word | [languagetool weasel words](https://github.com/languagetool-org/languagetool/blob/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt/weaselwords.txt) | Lista de palavras com termos evasivos. Pode ser interessante interessante até para análise de discursos políticos. Veja: [Finding Hedges by Chasing Weasels: Hedge Detection Using Wikipedia Tags and Shallow Linguistic Features](http://www.aclweb.org/anthology/P09-2044) |
+
 ## Motivação
 _TODO: adicionar motivação (fititnt, 2018-05-19 17:25 BRT)_
 
