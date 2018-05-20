@@ -47,7 +47,6 @@ de discriminação._
 - [discurso-de-odio](https://github.com/topics/discurso-de-odio)
 - [hate-speech](https://github.com/topics/hate-speech)
 - [hatespeech](https://github.com/topics/hatespeech)
-- [offensive-language](https://github.com/topics/offensive-language)
 
 ### Língua Natural
 

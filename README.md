@@ -13,8 +13,7 @@ knowledge representation.
 
 ---
 
-Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md)
-e [ferramentas](ferramentas.md).
+Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md).
 
 ---
 
