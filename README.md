@@ -11,6 +11,8 @@ thematic dictionaries, thesaurus, linked data, semantic, ontology and
 knowledge representation.
 </em></blockquote>
 
+---
+
 Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md)
 e [ferramentas](ferramentas.md).
 
@@ -22,7 +24,7 @@ e [ferramentas](ferramentas.md).
 | [languagetool-org: falsos cognatos](https://github.com/languagetool-org/languagetool/blob/master/languagetool-core/src/main/resources/org/languagetool/rules/false-friends.xml) | _ativo_ | LGPLv2.1 | falsos-cognatos | Falsos cognatos (Inglês: _false friends_) são termos que parecem uma coisa, mas na verdade, são outra. Muito pertinente na tradução de textos |
 | [openWordnet-PT](https://github.com/own-pt/openWordnet-PT) | _ativo_ | CC-BY-4.0 | wordnet, owl, rdf, sparql | OpenWordnet-PT: an open Brazilian Wordnet |
 | [VERO-pt-BR](https://github.com/fititnt/VERO-pt-BR_verificador-ortografico-portugues-brasileiro) | 2013-12-17 | LGPLv3, MPL | verificacao-ortografica, verificacao-gramatical, hifenizacao, libreoffice, openoffice | Espelho não-oficial da base de dados do [VERO (VERificador Ortografico do LibreOffice)](https://pt-br.libreoffice.org/projetos/vero) |
-| [br.ispell](https://github.com/fititnt/br.ispell) | 2003-03-25 | GPLv2 | dicionario, verificacao-ortografica, ispell, aspell, myspell | Espelho não-oficial dos dados de [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/) |
+| [br.ispell](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro) | 2003-03-25 | GPLv2 | dicionario, verificacao-ortografica, ispell, aspell, myspell | Espelho não-oficial dos dados de [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/) |
 
 ## Motivação
 _TODO: adicionar motivação (fititnt, 2018-05-19 17:25 BRT)_

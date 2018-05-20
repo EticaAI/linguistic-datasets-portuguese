@@ -1,6 +1,29 @@
-# Palavras-chave
-Lista de palavras chave potencialmente interessantes para pessoas que fariam
-uso dos conjuntos de dados deste repositório.
+# Termos-chave
+Tanto para entender o que são conjunto de dados linguísticos como para usá-los,
+é útil saber certos termos-chave relacionados. Esta página além de
+listar alguns, também possui hiperlinks para buscar termos relacionados em
+português e em inglês no GitHub (que é uma espécie de rede social muito popular
+para desenvolvedores de código aberto).
+
+> Dica: clique nas recomendações de termos de busca. Elas podem levar a outros
+repositórios contendo ferramentas ou conjunto de dados.
+
+<!--
+## Aviso
+Essa é uma área multidisciplinar: é natural que até mesmo pesquisadores com doutorado em um
+campo de estudo não tenham tempo para entender outros, e que até mesmo nos que
+tem experiência haja receio em ter iniciativa e errar. Outro ponto é até mesmo
+que a maioria dos conjuntos de dados listados aqui nesse repositório tem origem
+em dados direta ou indiretamente obtida a partir de voluntários, como da
+Wikipédia, ou mesmo pessoas que não eram boas em entender português, mas que,
+naquele momento, a contribuição delas era melhor do que nada.
+-->
+
+<!--
+Além disso, seja você um programador ou professor de português, entenda que até
+mesmo humanos com mais experiência em outra área podem errar em especial quando
+a contribuição é um detalhe 
+-->
 
 ## Termos
 
