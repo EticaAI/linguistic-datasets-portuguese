@@ -37,6 +37,18 @@ significação ou a sua versão em outra língua._
 - [dicionario](https://github.com/topics/dicionario)
 - [dictionary](https://github.com/topics/dictionary)
 
+### Discurso de Ódio
+_[**Discurso de ódio** ou **incitamento ao ódio**](https://pt.wikipedia.org/wiki/Discurso_de_%C3%B3dio)
+é, de forma genérica, qualquer ato de comunicação que inferiorize ou incite
+contra uma pessoa ou grupo, tendo por base características como raça, gênero,
+etnia, nacionalidade, religião, orientação sexual ou outro aspecto passível
+de discriminação._
+
+- [discurso-de-odio](https://github.com/topics/discurso-de-odio)
+- [hate-speech](https://github.com/topics/hate-speech)
+- [hatespeech](https://github.com/topics/hatespeech)
+- [offensive-language](https://github.com/topics/offensive-language)
+
 ### Língua Natural
 
 **[Língua natural](https://pt.wikipedia.org/wiki/L%C3%ADngua_natural), língua
@@ -64,6 +76,16 @@ São Tomé e Príncipe._
 - [pt-mz](https://github.com/topics/pt-mz)
 - [pt-pt](https://github.com/topics/pt-pt)
 
+### Linguagem Ofensiva
+_Uma [**palavra de baixo calão**, popularmente conhecida como **palavrão**](https://pt.wikipedia.org/wiki/Palavra_de_baixo_cal%C3%A3o),
+é um vocábulo que pertence à categoria de gíria e, dentro desta, apresenta cunho
+chulo, impróprio, ofensivo, rude, obsceno, agressivo ou imoral sob o ponto de
+vista de algumas religiões ou estilos de vida._
+
+- [linguagem-ofensiva](https://github.com/topics/linguagem-ofensiva)
+- [swearword](https://github.com/topics/swearword)
+- [offensive-language](https://github.com/topics/offensive-language)
+
 ### Ontologia
 _Em Ciência da Computação, Sistemas de Informação e Ciência da Informação, uma
 **[ontologia](https://pt.wikipedia.org/wiki/Ontologia_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o))**
@@ -88,7 +110,6 @@ Termos extras:
 - [sparql](https://github.com/topics/sparql)
 - [turtle](https://github.com/topics/turtle)
 - [ntriples](https://github.com/topics/ntriples)
-
 
 ### Processamento de Linguagem Natural
 _**[Processamento de linguagem natural](https://pt.wikipedia.org/wiki/Processamento_de_linguagem_natural)
