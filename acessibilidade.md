@@ -12,6 +12,30 @@ aprender um padrão complexo, que requer tempo a ponto de em geral ficar restrit
 a especialistas ou pesquisadores acadêmicos, poderia nos cegar e ignorar o tempo
 necessário para os demais, que não trabalham com isso no dia a dia?**
 
+<!-- NOTA: elaborar um toy problem pode ser complexo demais para o momento (fititnt, 2018-05-20 22:08 BRT) -->
+
+## _Toy Problem_
+
+> _Toy Problem: (ciências) Um problema simplificado com restrições e parâmetros
+claros, geralmente usado como uma ferramenta para entender um problema do mundo
+real relacionado._ [wiktionary](https://en.wiktionary.org/wiki/toy_problem)
+
+_Toy Problems_ eventualmente são usados no campo de inteligência artificial
+para explicar problemas maiores. Ou seja, resolver eles não é diretamente
+útil por não necessariamente serem uma representação realista, mas o
+pensamento que os leva a ser resolvido pode inspirar aplicações uteis.
+
+### Problema da otimização de formatos para falantes de português
+Você foi escolhido para definir como empacotar conhecimento
+
+Lista de países onde o português é língua oficial
+
+#### Escolhas que facilitam adoção
+
+#### Escolhas que dificultam adoção
+
+## Desenvolvedores são humanos
+
 ## Criticismo relacionado ao foco em interoperabilidade
 > Nota 1: esse tópico potencialmente ignora _interoperabilidade humana_.
 
