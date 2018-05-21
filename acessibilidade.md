@@ -10,8 +10,37 @@ entendessem. Isso tinha implicações sociais e políticas na India do século X
 XX. A pergunta retorica aqui é: **até que ponto ter tido oportunidade de
 aprender um padrão complexo, que requer tempo a ponto de em geral ficar restrito
 a especialistas ou pesquisadores acadêmicos, poderia nos cegar e ignorar o tempo
-necessário para os demais, que não trabalham com isso no dia a dia, precisariam
-aprender?**
+necessário para os demais, que não trabalham com isso no dia a dia?**
 
 ## Criticismo relacionado ao foco em interoperabilidade
-> Nota: esse tópico praticamente ignora _interoperabilidade humana_
+> Nota 1: esse tópico potencialmente ignora _interoperabilidade humana_.
+
+> Nota 2: esse tópico usa web apenas como exemplo, porém conjunto de dados
+linguísticos não são apenas para uso em aplicações web.
+
+[Interoperabilidade](https://pt.wikipedia.org/wiki/Interoperabilidade) é algo
+muito positivo e necessário. Nós precisamos de padrões. Uma aplicação poder
+interagir com outra usando interfaces que abstraem complexidade é algo
+necessário. Um problema é que indivíduos ou pequenos grupos que tomem decisões
+mais perfeccionistas podem resultar em dificuldade de implementação.
+
+Pesquisadores acadêmicos, e até mesmo grupos internacionais que definem padrões,
+podem dedicar muito tempo e conseguir atingir padrões que atendem o máximo de
+requisitos. Isso é positivo.
+
+Especialistas de tecnologia em grupos de trabalho nos seus respectivos países
+podem tomar decisões que impactam padrões a serem implementados no respectivo
+país. Em geral são inspirados pelos mesmos padrões internacionais ou por
+pesquisas acadêmicas. Isso é positivo.
+
+É aqui que a frase adaptada de Gandhi pode fazer sentido: **as melhores escolhas
+técnicas não necessariamente são as que causariam mais impacto positivo sem
+levar em consideração o contexto**. Recomendações voltadas para padrões de
+governo tem uma motivação menor para levarem em consideração a facilidade de
+adoção de tais padrões, e como tais grupos de trabalho tendem a ocorrer a cada
+5 ou 10 anos, a pressão por boas escolhas técnicas pode levar (... continuar...)
+
+eventualmente optar por obrigar por lei tais padrões técnicos, e isso pode levar
+
+
+Recomendação de leitura extra: Manu Sporny, idealizador do padrão em [JSON-LD and Why I Hate the Semantic Web](http://manu.sporny.org/2014/json-ld-origins-2/).
