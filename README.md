@@ -1,11 +1,11 @@
 # _Linguistic Datasets for Portuguese_: conjuntos de dados linguísticos para português (pt-AO, pt-BR pt-MZ e pt-PT)
-**[trabalho-em-progresso] Lista de conjuntos de dados linguísticos para
+**Lista de conjuntos de dados linguísticos para
 português com licenças flexíveis: banco de dados, lista de palavras, sinônimos,
 antônimos, dicionário temático, tesauro, _linked data_, semântica, ontologia e
 representação de conhecimento.**
 
 <blockquote><em lang="en">
-(English description) [work-in-progress] List of linguistic datasets for Portuguese
+(English description) List of linguistic datasets for Portuguese
 with flexible licenses: database, wordlist, synonyms, antonyms,
 thematic dictionaries, thesaurus, linked data, semantic, ontology and
 knowledge representation.
@@ -13,7 +13,24 @@ knowledge representation.
 
 ---
 
+O objetivo desse projeto, inspirado pelo espírito de [FOSS](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto),
+é listar fontes de representações de conhecimento que, ao depender da língua
+e das culturas locais, não podem ser importada. Requerem atenção especial, de
+caráter multidisciplinar, e que idealmente _já deveria estar prontas_ no
+passado: quando não existem, na melhor das hipóteses podem forçar serem feitas
+por não especialista (como o próprio desenvolvedor de software) e prejudicar
+qualidade, e na pior impedir a produção de uma tecnologia.
+
+A [acessibilidade importa](acessibilidade.md): é preciso entender que
+disponibilizar alternativas simples como lista de palavras temática, mesmo com
+[limitações aceitáveis](limitacoes.md), não só facilita adoção e impacto
+positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
+
+Veja outras [justificativas da pertinência](#justificativa).
+
+<!--
 Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md).
+-->
 
 ---
 
@@ -36,7 +53,7 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 | analise-de-sentimento, sarcasmo | [MIT, emojis, bullying](https://www.digitaltrends.com/cool-tech/emojis-mit-algorithm-bullying/) | Considerar a possibilidade de estimular análise de sentimento (ou padrões para identificar sarcasmo) considerando emojis e outros estilos de escrita muito específicos. Potencialmente útil em pesquisas futuras para reduzir falsos positivos de linguagem ofensiva ou discurso de ódio. Um projeto internacional é [deepmoji.mit.edu](https://deepmoji.mit.edu/) / [GitHub do DeepMoji](https://github.com/bfelbo/DeepMoji) |
 | weasel-word | [languagetool weasel words](https://github.com/languagetool-org/languagetool/blob/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt/weaselwords.txt) | Lista de palavras com termos evasivos. Pode ser interessante interessante até para análise de discursos políticos. Veja: [Finding Hedges by Chasing Weasels: Hedge Detection Using Wikipedia Tags and Shallow Linguistic Features](http://www.aclweb.org/anthology/P09-2044) |
 
-## Motivação
+## Justificativa
 _TODO: adicionar motivação (fititnt, 2018-05-19 17:25 BRT)_
 
 ## Licença
