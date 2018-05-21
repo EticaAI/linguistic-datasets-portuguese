@@ -14,6 +14,7 @@ necessário para os demais, que não trabalham com isso no dia a dia?**
 
 <!-- NOTA: elaborar um toy problem pode ser complexo demais para o momento (fititnt, 2018-05-20 22:08 BRT) -->
 
+<!--
 ## _Toy Problem_
 
 > _Toy Problem: (ciências) Um problema simplificado com restrições e parâmetros
@@ -33,6 +34,10 @@ Lista de países onde o português é língua oficial
 #### Escolhas que facilitam adoção
 
 #### Escolhas que dificultam adoção
+
+-->
+
+<!--
 
 ## Desenvolvedores são humanos
 
@@ -66,5 +71,6 @@ adoção de tais padrões, e como tais grupos de trabalho tendem a ocorrer a cad
 
 eventualmente optar por obrigar por lei tais padrões técnicos, e isso pode levar
 
-
 Recomendação de leitura extra: Manu Sporny, idealizador do padrão em [JSON-LD and Why I Hate the Semantic Web](http://manu.sporny.org/2014/json-ld-origins-2/).
+
+-->

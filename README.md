@@ -21,11 +21,6 @@ passado: quando não existem, na melhor das hipóteses podem forçar serem feita
 por não especialista (como o próprio desenvolvedor de software) e prejudicar
 qualidade, e na pior impedir a produção de uma tecnologia.
 
-A [acessibilidade importa](acessibilidade.md): é preciso entender que
-disponibilizar alternativas simples como lista de palavras temática, mesmo com
-[limitações aceitáveis](limitacoes.md), não só facilita adoção e impacto
-positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
-
 Veja outras [justificativas da pertinência](#justificativa).
 
 <!--
@@ -54,7 +49,10 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 | weasel-word | [languagetool weasel words](https://github.com/languagetool-org/languagetool/blob/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt/weaselwords.txt) | Lista de palavras com termos evasivos. Pode ser interessante interessante até para análise de discursos políticos. Veja: [Finding Hedges by Chasing Weasels: Hedge Detection Using Wikipedia Tags and Shallow Linguistic Features](http://www.aclweb.org/anthology/P09-2044) |
 
 ## Justificativa
-_TODO: adicionar motivação (fititnt, 2018-05-19 17:25 BRT)_
+A [acessibilidade importa](acessibilidade.md): é preciso entender que
+disponibilizar alternativas simples como lista de palavras temática, mesmo com
+[limitações aceitáveis](limitacoes.md), não só facilita adoção e impacto
+positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
 
 ## Licença
 [![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
