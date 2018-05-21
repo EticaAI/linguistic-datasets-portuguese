@@ -19,7 +19,7 @@ e das culturas locais, não podem ser importadas. Requerem atenção especial, d
 caráter multidisciplinar, e que idealmente _já deveria estar prontas e
 aceitavelmente validadas_: quando não existem, na melhor das hipóteses podem
 forçar serem feitas por não especialista e prejudicar qualidade, e na pior, até
-impedir a produção de uma tecnologias inovadoras.
+impedir a produção de tecnologias inovadoras.
 
 Veja outras [justificativas da pertinência](#justificativa).
 
@@ -30,11 +30,9 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 ---
 
 ## Lista
-
 Boa parte dos conjuntos de dados listados são praticamente _engenharia reversa_
 da base de dados de algum software livre usado para outro propósito e que tinha
-uma comunidade ativa em volta. Pergunta: _e o que podemos fazer com dados que
-nem mesmo podem ser extraídos de outra aplicação sem envolver pirataria?_
+uma comunidade ativa em volta.
 
 | Conjunto de dados | Data | Licença | Etiquetas | Descrição |
 | --- | --- | --- | --- | --- |
@@ -45,7 +43,24 @@ nem mesmo podem ser extraídos de outra aplicação sem envolver pirataria?_
 | [DicSin pt-BR](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) | 2010-05-28 | GPLv2? | dicionario, sinonimo, antonimo, pt-BR | DicSin: Dicionário de sinônimos e antônimos no idioma português brasileiro |
 | [br.ispell](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro) | 2003-03-25 | GPLv2 | dicionario, verificacao-ortografica, ispell, aspell, myspell, pt-BR | Espelho não-oficial dos dados de [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/) |
 
+Pergunta: que podemos fazer com dados que nem mesmo podem ser extraídos de
+outra aplicação sem envolver pirataria (exemplo: é comum bibliotecas que fazem
+web scrapping de sites ou então que usam APIs pagas de forma que viola os termos
+de uso)? E o que fazer com tipo de dados que é necessário mas nem mesmo violando
+licenças existiria?
+
 ## Lista de desejos
+Uma forma de classificar conjunto de dados que se provam úteis separar em duas
+categorias:
+
+1. Validados o suficiente para uso como ferramenta em pesquisa acadêmica nível
+   internacional
+2. Os aceitáveis para uso no dia a dia pela indústria
+
+A coexistência de ambos é boa para sociedade.
+
+A lista a seguir (que não foi revisada) contém potenciais sugestões **iniciais**
+que dependem tanto de avaliação de utilidade como de viabilidade.
 
 <!--
 Essa abordagem é útil a curto prazo, porém o
