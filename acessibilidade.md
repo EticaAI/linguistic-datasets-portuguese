@@ -12,6 +12,9 @@ aprender um padrão complexo, que requer tempo a ponto de em geral ficar restrit
 a especialistas ou pesquisadores acadêmicos, poderia nos cegar e ignorar o tempo
 necessário para os demais, que não trabalham com isso no dia a dia?**
 
+_TODO: adicionar informação básica sobre a pertinência conjuntos de dados em
+versões mais amigáveis do que formatos como OWL (fititnt, 2018-05-21 03:05 BRT)_
+
 <!-- NOTA: elaborar um toy problem pode ser complexo demais para o momento (fititnt, 2018-05-20 22:08 BRT) -->
 
 <!--

@@ -15,11 +15,11 @@ knowledge representation.
 
 O objetivo desse projeto, inspirado pelo espírito de [FOSS](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto),
 é listar fontes de representações de conhecimento que, ao depender da língua
-e das culturas locais, não podem ser importada. Requerem atenção especial, de
-caráter multidisciplinar, e que idealmente _já deveria estar prontas_ no
-passado: quando não existem, na melhor das hipóteses podem forçar serem feitas
-por não especialista (como o próprio desenvolvedor de software) e prejudicar
-qualidade, e na pior impedir a produção de uma tecnologia.
+e das culturas locais, não podem ser importadas. Requerem atenção especial, de
+caráter multidisciplinar, e que idealmente _já deveria estar prontas e
+aceitavelmente validadas_: quando não existem, na melhor das hipóteses podem
+forçar serem feitas por não especialista e prejudicar qualidade, e na pior, até
+impedir a produção de uma tecnologias inovadoras.
 
 Veja outras [justificativas da pertinência](#justificativa).
 
@@ -30,6 +30,11 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 ---
 
 ## Lista
+
+Boa parte dos conjuntos de dados listados são praticamente _engenharia reversa_
+da base de dados de algum software livre usado para outro propósito e que tinha
+uma comunidade ativa em volta. Pergunta: _e o que podemos fazer com dados que
+nem mesmo podem ser extraídos de outra aplicação sem envolver pirataria?_
 
 | Conjunto de dados | Data | Licença | Etiquetas | Descrição |
 | --- | --- | --- | --- | --- |
@@ -42,6 +47,12 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 
 ## Lista de desejos
 
+<!--
+Essa abordagem é útil a curto prazo, porém o
+pensamento a médio e longo prazo poderia ativamente estimular que governos e
+universidades desenvolvam conjunto de dados úteis
+-->
+
 | Etiquetas | Inspirações | Descrição |
 | --- | --- | --- |
 | afinn-111, analise-de-sentimento | [AFINN-111, EN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010) | Uma lista de palavras etiquetada com uma valência positiva ou negativa adaptada a um ou mais dialetos da língua portuguesa, que use como inspiração (não necessariamente uma tradução) do artigo [A new ANEW: Evaluation of a word list for sentiment analysis in microblogs](https://arxiv.org/abs/1103.2903) |
@@ -53,6 +64,8 @@ A [acessibilidade importa](acessibilidade.md): é preciso entender que
 disponibilizar alternativas simples como lista de palavras temática, mesmo com
 [limitações aceitáveis](limitacoes.md), não só facilita adoção e impacto
 positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
+
+_TODO: adicionar mais informação da justificativa (fititnt, 2018-05-21 03:08 BRT)_
 
 ## Licença
 [![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
