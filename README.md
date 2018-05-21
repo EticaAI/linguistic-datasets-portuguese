@@ -17,7 +17,7 @@ O objetivo desse projeto, inspirado pelo espírito de [FOSS](https://pt.wikipedi
 é listar fontes de representações de conhecimento que, ao depender da língua
 e das culturas locais, não podem ser importadas. Requerem atenção especial, de
 caráter multidisciplinar, e que idealmente _já deveria estar prontas e
-aceitavelmente validadas_: quando não existem, na melhor das hipóteses podem
+aceitavelmente validadas_: quando não existem, na melhor das hipóteses, podem
 forçar serem feitas por não especialista e prejudicar qualidade, e na pior, até
 impedir a produção de tecnologias inovadoras.
 
@@ -57,10 +57,11 @@ categorias:
    internacional
 2. Os aceitáveis para uso no dia a dia pela indústria
 
-A coexistência de ambos é boa para sociedade.
-
-A lista a seguir (que não foi revisada) contém potenciais sugestões **iniciais**
-que dependem tanto de avaliação de utilidade como de viabilidade.
+A coexistência de ambos é boa para sociedade. Como podemos estimular mais ainda?
+Um problema a nível internacional é que há baixa interação, mesmo dentro de
+universidades, das áreas de computação com as de estudo da língua, psicologia,
+sociologia e afins. Será que podemos fazer diferente nos nossos países que falam
+português?
 
 <!--
 Essa abordagem é útil a curto prazo, porém o
@@ -72,7 +73,15 @@ universidades desenvolvam conjunto de dados úteis
 | --- | --- | --- |
 | afinn-111, analise-de-sentimento | [AFINN-111, EN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010) | Uma lista de palavras etiquetada com uma valência positiva ou negativa adaptada a um ou mais dialetos da língua portuguesa, que use como inspiração (não necessariamente uma tradução) do artigo [A new ANEW: Evaluation of a word list for sentiment analysis in microblogs](https://arxiv.org/abs/1103.2903) |
 | analise-de-sentimento, sarcasmo | [MIT, emojis, bullying](https://www.digitaltrends.com/cool-tech/emojis-mit-algorithm-bullying/) | Considerar a possibilidade de estimular análise de sentimento (ou padrões para identificar sarcasmo) considerando emojis e outros estilos de escrita muito específicos. Potencialmente útil em pesquisas futuras para reduzir falsos positivos de linguagem ofensiva ou discurso de ódio. Um projeto internacional é [deepmoji.mit.edu](https://deepmoji.mit.edu/) / [GitHub do DeepMoji](https://github.com/bfelbo/DeepMoji) |
+| termos-ofensivos, palavrao | [Wikipedia](https://pt.wikipedia.org/wiki/Palavra_de_baixo_cal%C3%A3o), [HateBase PT](https://www.hatebase.org/search_results/keywords%3D%7Cfilter_about_ethnicity%3D%7Cfilter_about_nationality%3D%7Cfilter_about_religion%3D%7Cfilter_about_gender%3D%7Cfilter_about_sexual_orientation%3D%7Cfilter_about_disability%3D%7Cfilter_about_class%3D%7Cfilter_archaic%3D%7Cinclude_meaning%3D%7Cfilter_language%3Dpor) | Palavrões, Palavra de baixo calão, termos ofensivos: <ul><li>Preferencialmente com classificações adicionais (por região, tipo de palavrão, intensidade)</li><li>Permitir exportação para lista de palavras simples (útil em filtros de spam)</li><li>Pode exibir uma abordagem colaborativa, atualizável por usuários finais</li><li>Muito útil para gerar outros conjuntos de dados</li></ul> |
+| termos-ofensivos, discurso-de-odio | [Wikipedia](https://pt.wikipedia.org/wiki/Discurso_de_%C3%B3dio), [HateBase PT](https://www.hatebase.org/search_results/keywords%3D%7Cfilter_about_ethnicity%3D%7Cfilter_about_nationality%3D%7Cfilter_about_religion%3D%7Cfilter_about_gender%3D%7Cfilter_about_sexual_orientation%3D%7Cfilter_about_disability%3D%7Cfilter_about_class%3D%7Cfilter_archaic%3D%7Cinclude_meaning%3D%7Cfilter_language%3Dpor) | Conjunto de dados que ajudem a identificar especificamente discurso de ódio possui interesse especial dentro de termos ofensivos |
 | weasel-word | [languagetool weasel words](https://github.com/languagetool-org/languagetool/blob/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt/weaselwords.txt) | Lista de palavras com termos evasivos. Pode ser interessante interessante até para análise de discursos políticos. Veja: [Finding Hedges by Chasing Weasels: Hedge Detection Using Wikipedia Tags and Shallow Linguistic Features](http://www.aclweb.org/anthology/P09-2044) |
+
+> Nota: a lista de desejos acima não foi revisada nem quanto a utilidade como
+quanto a viabilidade. Se você trabalha na área e algo parece absurdo,
+provavelmente você está certo. [Entre em contato](#contato). Ajuda de
+especialistas ou profissionais experientes para priorizar conjunto de dados é
+extremamente valiosa.
 
 ## Justificativa
 A [acessibilidade importa](acessibilidade.md): é preciso entender que
@@ -81,6 +90,10 @@ disponibilizar alternativas simples como lista de palavras temática, mesmo com
 positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
 
 _TODO: adicionar mais informação da justificativa (fititnt, 2018-05-21 03:08 BRT)_
+
+## Contato
+- Email: Emerson Rocha &#x3C;<rocha@ieee.org>&#x3E;.
+- GitHub Issues: <https://github.com/fititnt/linguistic-datasets-portuguese/issues>.
 
 ## Licença
 [![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
