@@ -21,7 +21,11 @@ aceitavelmente validadas_: quando não existem, na melhor das hipóteses, podem
 forçar serem feitas por não especialista e prejudicar qualidade, e na pior, até
 impedir a produção de tecnologias inovadoras.
 
+<!--
+
 Veja outras [justificativas da pertinência](#justificativa).
+
+-->
 
 <!--
 Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md).
@@ -30,9 +34,15 @@ Veja também [termos chave para inspirar pesquisas relacionadas](termos-chave.md
 ---
 
 ## Lista
-Boa parte dos conjuntos de dados listados são praticamente _engenharia reversa_
-da base de dados de algum software livre usado para outro propósito e que tinha
-uma comunidade ativa em volta.
+Conjuntos de dados linguísticos requerem _muito mais_ atenção e trabalho humano
+especializado do que tradicionalmente se vê em dados abertos. Pense em megabytes,
+não gigabytes. Boa parte dos conjuntos de dados listados são praticamente
+_engenharia reversa_ da representação de conhecimento e que, mesmo sem usar
+licença específica mais para datasets 
+([PDDL](https://opendatacommons.org/licenses/pddl/),
+[CDLA](https://cdla.io/permissive-1-0/),
+[ODC](http://opendatacommons.org/licenses/by/), ...) tem uma licença em que
+**você pode** usar.
 
 | Conjunto de dados | Data | Licença | Etiquetas | Descrição |
 | --- | --- | --- | --- | --- |
@@ -43,25 +53,14 @@ uma comunidade ativa em volta.
 | [DicSin pt-BR](https://github.com/fititnt/DicSin-dicionario-sinonimos-portugues-brasileiro) | 2010-05-28 | GPLv2? | dicionario, sinonimo, antonimo, pt-BR | DicSin: Dicionário de sinônimos e antônimos no idioma português brasileiro |
 | [br.ispell](https://github.com/fititnt/br.ispell-dicionario-portugues-brasileiro) | 2003-03-25 | GPLv2 | dicionario, verificacao-ortografica, ispell, aspell, myspell, pt-BR | Espelho não-oficial dos dados de [br.ispell](https://www.ime.usp.br/~ueda/br.ispell/) |
 
-Pergunta: que podemos fazer com dados que nem mesmo podem ser extraídos de
-outra aplicação sem envolver pirataria (exemplo: é comum bibliotecas que fazem
-web scrapping de sites ou então que usam APIs pagas de forma que viola os termos
-de uso)? E o que fazer com tipo de dados que é necessário mas nem mesmo violando
-licenças existiria?
+Pergunta em aberto: sabendo que conjunto de dados linguísticos são úteis para
+todos (principalmente o próprio governo e pequenas e médias empresas e
+organizações) o que pode ser feito com os que nem existem ou os que o uso mais
+comum implica em pirataria?
 
 ## Lista de desejos
-Uma forma de classificar conjunto de dados que se provam úteis separar em duas
-categorias:
 
-1. Validados o suficiente para uso como ferramenta em pesquisa acadêmica nível
-   internacional
-2. Os aceitáveis para uso no dia a dia pela indústria
-
-A coexistência de ambos é boa para sociedade. Como podemos estimular mais ainda?
-Um problema a nível internacional é que há baixa interação, mesmo dentro de
-universidades, das áreas de computação com as de estudo da língua, psicologia,
-sociologia e afins. Será que podemos fazer diferente nos nossos países que falam
-português?
+> Aviso: a lista a seguir não foi revisada quanto a utilidade e viabilidade.
 
 <!--
 Essa abordagem é útil a curto prazo, porém o
@@ -77,19 +76,43 @@ universidades desenvolvam conjunto de dados úteis
 | termos-ofensivos, discurso-de-odio | [Wikipedia](https://pt.wikipedia.org/wiki/Discurso_de_%C3%B3dio), [HateBase PT](https://www.hatebase.org/search_results/keywords%3D%7Cfilter_about_ethnicity%3D%7Cfilter_about_nationality%3D%7Cfilter_about_religion%3D%7Cfilter_about_gender%3D%7Cfilter_about_sexual_orientation%3D%7Cfilter_about_disability%3D%7Cfilter_about_class%3D%7Cfilter_archaic%3D%7Cinclude_meaning%3D%7Cfilter_language%3Dpor) | Conjunto de dados que ajudem a identificar especificamente discurso de ódio possui interesse especial dentro de termos ofensivos |
 | weasel-word | [languagetool weasel words](https://github.com/languagetool-org/languagetool/blob/master/languagetool-language-modules/pt/src/main/resources/org/languagetool/rules/pt/weaselwords.txt) | Lista de palavras com termos evasivos. Pode ser interessante interessante até para análise de discursos políticos. Veja: [Finding Hedges by Chasing Weasels: Hedge Detection Using Wikipedia Tags and Shallow Linguistic Features](http://www.aclweb.org/anthology/P09-2044) |
 
+<!--
+
+TODO: adicionar <https://github.com/stopwords-iso/stopwords-pt>
+
+-->
+
+<!--
 > Nota: a lista de desejos acima não foi revisada nem quanto a utilidade como
 quanto a viabilidade. Se você trabalha na área e algo parece absurdo,
 provavelmente você está certo. [Entre em contato](#contato). Ajuda de
 especialistas ou profissionais experientes para priorizar conjunto de dados é
 extremamente valiosa.
+-->
 
 ## Justificativa
+Uma forma de classificar conjunto de dados que se provam úteis separar em duas
+categorias:
+
+1. Validados o suficiente para uso como ferramenta em pesquisa acadêmica nível
+   internacional
+2. Os aceitáveis para uso no dia a dia pela indústria
+
+A coexistência de ambos é boa para sociedade. Como podemos estimular mais ainda?
+Um problema a nível internacional é que há baixa interação, mesmo dentro de
+universidades, das áreas de computação com as de estudo da língua, psicologia,
+sociologia e afins. Será que podemos estimular uma abordagem diferente em
+nossos países?
+
+_TODO: adicionar mais informação da justificativa (fititnt, 2018-05-21 03:08 BRT)_
+
+<!--
+
 A [acessibilidade importa](acessibilidade.md): é preciso entender que
 disponibilizar alternativas simples como lista de palavras temática, mesmo com
 [limitações aceitáveis](limitacoes.md), não só facilita adoção e impacto
 positivo como potencialmente reduz abusos de sistemas sem intervenção humana.
-
-_TODO: adicionar mais informação da justificativa (fititnt, 2018-05-21 03:08 BRT)_
+-->
 
 ## Contato
 - Email: Emerson Rocha &#x3C;<rocha@ieee.org>&#x3E;.
