@@ -110,6 +110,19 @@ Termos extras:
 - [turtle](https://github.com/topics/turtle)
 - [ntriples](https://github.com/topics/ntriples)
 
+### Palavra vazia
+_Na computação, uma [**palavra vazia** (ou **stop word**, em inglês)](https://pt.wikipedia.org/wiki/Palavra_vazia)
+é uma palavra que é removida antes ou após o processamento de um texto em
+linguagem natural. Não existe uma lista universal de palavras vazias usadas por
+todas as ferramentas de processamento de linguagem natural e nem todas
+ferramentas fazem uso de uma lista dessas palavras. Algumas ferramentas,
+inclusive, evitam remover as chamadas "palavras vazias" para dar suporte à busca
+de sentenças._
+
+- [palavras-vazias](https://github.com/topics/palavras-vazias)
+- [stopwords](https://github.com/topics/stopwords)
+- [stop-words](https://github.com/topics/stop-words)
+
 ### Processamento de Linguagem Natural
 _**[Processamento de linguagem natural](https://pt.wikipedia.org/wiki/Processamento_de_linguagem_natural)
 (PLN)** é uma subárea da ciência da computação, inteligência artificial e da
